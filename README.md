@@ -65,7 +65,7 @@ _Email:_ Configure email settings for features like password reset and email not
 
 Contributions are welcome! If you have ideas for new features, bug fixes, or improvements, please open an issue or submit a pull request.
 
-**Acknowledgements**
+******Acknowledgements******
 
 Django - The web framework for perfectionists with deadlines.
 
